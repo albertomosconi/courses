@@ -5,10 +5,10 @@ This is meant as a collection of courses that I've followed or plan to watch.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
 
 ### Biology
-- [Human Behavioral Biology](https://www.youtube.com/playlist?list=PLqeYp3nxIYpF7dW7qK8OvLsVomHrnYNjD "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
+- [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
 
 ### Physics
-- [General Relativity](https://www.youtube.com/playlist?list=PLXLSbKIMm0kh6XsMSCEMnM02kEoW_8x-f "General Relativity"): 17h, Leonard Susskind, Stanford University, Youtube.
+- [General Relativity](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib "General Relativity"): 17h, Leonard Susskind, Stanford University, Youtube.
 
 ### Psychology
 - [Buddhism and Modern Psychology](https://www.coursera.org/learn/science-of-meditation "Buddhism and Modern Psychology"): 18h, Robert Wright, Princeton University, Coursera.
