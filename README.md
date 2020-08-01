@@ -1,5 +1,5 @@
-# Cool Online Courses
-This is meant as a collection of courses that I've followed or plan to watch.
+# Cool Free Online Courses
+This is a collection of free online courses that I've followed or plan to watch.
 
 ### Computer Science
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
