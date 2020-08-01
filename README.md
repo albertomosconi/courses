@@ -1,18 +1,18 @@
 # Cool Online Courses
 This is meant as a collection of courses that I've followed or plan to watch.
 
-## Computer Science
+### Computer Science
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
 
-## Biology
+### Biology
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PLqeYp3nxIYpF7dW7qK8OvLsVomHrnYNjD "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
 
-## Physics
+### Physics
 - [General Relativity](https://www.youtube.com/playlist?list=PLXLSbKIMm0kh6XsMSCEMnM02kEoW_8x-f "General Relativity"): 17h, Leonard Susskind, Stanford University, Youtube.
 
-## Psychology
+### Psychology
 - [Buddhism and Modern Psychology](https://www.coursera.org/learn/science-of-meditation "Buddhism and Modern Psychology"): 18h, Robert Wright, Princeton University, Coursera.
 
-## Misc
+### Misc
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn "Learning How to Learn"): 15h, Barbara Oakley, McMaster University and University of California San Diego , Coursera.
 - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills "Successful Negotiation"): 16h, George Siedel, University of Michigan, Coursera.
