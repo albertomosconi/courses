@@ -1,6 +1,8 @@
 # Cool Free Online Courses
 This is a collection of free online courses that I've followed or plan to watch.
 
+I do not own this material, I'm just sharing it because I think it's cool.
+
 ### Computer Science
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
 
