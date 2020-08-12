@@ -19,4 +19,6 @@ I do not own this material, I'm just sharing it because I think it's cool.
 ### Misc
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn "Learning How to Learn"): 15h, Barbara Oakley, McMaster University and University of California San Diego , Coursera.
 - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills "Successful Negotiation"): 16h, George Siedel, University of Michigan, Coursera.
-- [Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Educational Documentaries"): 28h, Netflix, Youtube.
+
+### Documentaries
+- [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Educational Documentaries"): 28h, Netflix, Youtube.
