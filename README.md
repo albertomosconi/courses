@@ -8,7 +8,6 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ### Biology
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
-- [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g "Journey to the Microcosmos"): 30h, Hank Green, YouTube.
 
 ### Physics
 - [General Relativity](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib "General Relativity"): 17h, Leonard Susskind, Stanford University, Youtube.
@@ -22,3 +21,6 @@ I do not own this material, I'm just sharing it because I think it's cool.
 
 ### Documentaries
 - [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Educational Documentaries"): 28h, Netflix, Youtube.
+
+### YouTube Channels
+- [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g "Journey to the Microcosmos"): 30h, Hank Green, YouTube.
