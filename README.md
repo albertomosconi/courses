@@ -23,4 +23,8 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Educational Documentaries"): 28h, Netflix, Youtube.
 
 ### YouTube Channels
-- [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g "Journey to the Microcosmos"): 30h, Hank Green, YouTube.
+- [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g "Journey to the Microcosmos"): Hank Green.
+- [Smarter Every Day](https://www.youtube.com/channel/UC6107grRI4m0o2-emgoDnAA "SmarterEveryDay"): Destin Sandlin.
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA "Computerphile")
+- [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A "Numberphile")
+- [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA "Lex Fridman")
