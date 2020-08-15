@@ -28,3 +28,4 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA "Computerphile")
 - [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A "Numberphile")
 - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA "Lex Fridman")
+- [School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog "School of Life")
