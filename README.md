@@ -21,7 +21,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 - [Successful Negotiation](https://www.coursera.org/learn/negotiation-skills "Successful Negotiation"): 16h, George Siedel, University of Michigan, Coursera.
 
 ### Documentaries
-- [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Educational Documentaries"): 28h, Netflix, Youtube.
+- [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Netflix Educational Documentaries"): 28h, Netflix, Youtube.
 
 ### YouTube Channels
 - [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g "Journey to the Microcosmos")
