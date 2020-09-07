@@ -6,6 +6,7 @@ I do not own this material, I'm just sharing it because I think it's cool.
 ### Computer Science
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
 - [Software Design Patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc "Software Design Patterns"): 13h, Christopher Okhravi, Youtube.
+- [Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP "Arduino"): Paul McWhorter, Youtube.
 
 ### Biology
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
