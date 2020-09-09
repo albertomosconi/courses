@@ -11,9 +11,9 @@ At the bottom I've also listed a series of super interesting and educational You
 - [Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D "Human Behavioral Biology"): 36h, Robert Sapolsky, Stanford, Youtube.
 
 #### Computer Science
+- [Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP "Arduino"): Paul McWhorter, Youtube.
 - [Machine Learning](https://www.coursera.org/learn/machine-learning "Machine Learning"): 54h, Andrew Ng, Stanford, Coursera.
 - [Software Design Patterns](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc "Software Design Patterns"): 13h, Christopher Okhravi, Youtube.
-- [Arduino](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP "Arduino"): Paul McWhorter, Youtube.
 
 #### Documentaries
 - [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Netflix Educational Documentaries"): 28h, Netflix, Youtube.
