@@ -3,6 +3,8 @@
 ## About
 This is a collection of free online courses that I've followed or plan to watch. I do not own this material, I'm just sharing it because I think it's cool.
 
+At the bottom I've also listed a series of super interesting and educational Youtube Channels.
+
 ## Courses
 
 #### Computer Science
