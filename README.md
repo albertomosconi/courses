@@ -17,7 +17,7 @@ At the bottom I've also listed a series of super interesting and educational You
 
 #### Java
 - [Java Introduction](https://www.youtube.com/watch?v=eIrMbAQSU34 "Java Introduction"): 2.5h, Mosh Hamedani, Youtube.
-- [Java Full Course](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ "Java Full Course"): Edureka, Youtube.
+- [Java Full Course](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ "Java Full Course"): 75h, Edureka, Youtube.
 
 ### Documentaries
 - [Netflix Educational Documentaries](https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA "Netflix Educational Documentaries"): 28h, Netflix, Youtube.
